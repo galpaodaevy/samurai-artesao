@@ -12,3 +12,9 @@ Referências de pesquisa:
 - https://raw.githubusercontent.com/google/fonts/main/ofl/sedgwickavedisplay/DESCRIPTION.en_us.html
 
 Escuro por padrão, alternância manual dia/noite persistida localmente e sem rastreamento. Recurso Olhe de novo destaca detalhes verdadeiros da foto original.
+
+## Revisão editorial
+
+Composição refeita como publicação de artista, com capa, sumário, capítulos, legendas e ritmos diferentes de escala e posição. A proporção intrínseca de todas as fotos é preservada: não há mais cartões quadrados padronizados para imagens verticais. As ampliações da galeria também respeitam a proporção, com fundo sem moldura.
+
+A prévia da referência Adobe Stock 979151374, de ContestDesign, foi visualizada após a verificação automática do site. A direção aproveita a lógica editorial de composição e escalas variadas, sem copiar o template nem utilizar seus arquivos.

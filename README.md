@@ -23,3 +23,7 @@ Envie o conteúdo desta pasta para a raiz do repositório (index.html deve ficar
 A prévia de compartilhamento foi configurada para https://galpaodaevy.github.io/samurai-artesao/ e usa assets/compartilhar-samurai.jpg (1200 × 630 px), com título Vem ver a vida em outra escala. Se publicar em outro endereço, substitua essa base nas tags og:url, og:image, twitter:image e canonical do index.html. A prévia depende da publicação e de o aplicativo de compartilhamento atualizar o cache.
 
 O logo original aparece no cabeçalho, rodapé, favicon, ícone de tela inicial e imagem de compartilhamento.
+
+## Composição editorial
+
+A versão atual organiza a navegação como uma publicação: capa, sumário e capítulos por obra. Fotos mantêm suas proporções naturais, com legendas e composições assimétricas. Não há molduras quadradas impondo dimensões às fotos verticais.
