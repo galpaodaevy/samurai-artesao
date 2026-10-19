@@ -23,32 +23,44 @@
       {
         "id": 3,
         "src": "assets/casa-da-dona-cleide-003.webp",
-        "thumb": "assets/casa-da-dona-cleide-003-800.webp"
+        "thumb": "assets/casa-da-dona-cleide-003-800.webp",
+        "width": 1920,
+        "height": 1920
       },
       {
         "id": 27,
         "src": "assets/casa-da-dona-cleide-027.webp",
-        "thumb": "assets/casa-da-dona-cleide-027-800.webp"
+        "thumb": "assets/casa-da-dona-cleide-027-800.webp",
+        "width": 1920,
+        "height": 1920
       },
       {
         "id": 28,
         "src": "assets/casa-da-dona-cleide-028.webp",
-        "thumb": "assets/casa-da-dona-cleide-028-800.webp"
+        "thumb": "assets/casa-da-dona-cleide-028-800.webp",
+        "width": 1920,
+        "height": 1920
       },
       {
         "id": 29,
         "src": "assets/casa-da-dona-cleide-029.webp",
-        "thumb": "assets/casa-da-dona-cleide-029-800.webp"
+        "thumb": "assets/casa-da-dona-cleide-029-800.webp",
+        "width": 1920,
+        "height": 1920
       },
       {
         "id": 41,
         "src": "assets/casa-da-dona-cleide-041.webp",
-        "thumb": "assets/casa-da-dona-cleide-041-800.webp"
+        "thumb": "assets/casa-da-dona-cleide-041-800.webp",
+        "width": 1076,
+        "height": 1920
       },
       {
         "id": 43,
         "src": "assets/casa-da-dona-cleide-043.webp",
-        "thumb": "assets/casa-da-dona-cleide-043-800.webp"
+        "thumb": "assets/casa-da-dona-cleide-043-800.webp",
+        "width": 1076,
+        "height": 1920
       }
     ]
   },
@@ -77,32 +89,44 @@
       {
         "id": 4,
         "src": "assets/sobrado-com-salgados-004.webp",
-        "thumb": "assets/sobrado-com-salgados-004-800.webp"
+        "thumb": "assets/sobrado-com-salgados-004-800.webp",
+        "width": 1920,
+        "height": 1920
       },
       {
         "id": 12,
         "src": "assets/sobrado-com-salgados-012.webp",
-        "thumb": "assets/sobrado-com-salgados-012-800.webp"
+        "thumb": "assets/sobrado-com-salgados-012-800.webp",
+        "width": 1920,
+        "height": 1920
       },
       {
         "id": 14,
         "src": "assets/sobrado-com-salgados-014.webp",
-        "thumb": "assets/sobrado-com-salgados-014-800.webp"
+        "thumb": "assets/sobrado-com-salgados-014-800.webp",
+        "width": 1920,
+        "height": 1920
       },
       {
         "id": 15,
         "src": "assets/sobrado-com-salgados-015.webp",
-        "thumb": "assets/sobrado-com-salgados-015-800.webp"
+        "thumb": "assets/sobrado-com-salgados-015-800.webp",
+        "width": 1920,
+        "height": 1920
       },
       {
         "id": 17,
         "src": "assets/sobrado-com-salgados-017.webp",
-        "thumb": "assets/sobrado-com-salgados-017-800.webp"
+        "thumb": "assets/sobrado-com-salgados-017-800.webp",
+        "width": 1920,
+        "height": 1920
       },
       {
         "id": 21,
         "src": "assets/sobrado-com-salgados-021.webp",
-        "thumb": "assets/sobrado-com-salgados-021-800.webp"
+        "thumb": "assets/sobrado-com-salgados-021-800.webp",
+        "width": 1920,
+        "height": 1920
       }
     ]
   },
@@ -129,17 +153,23 @@
       {
         "id": 34,
         "src": "assets/barbearia-034.webp",
-        "thumb": "assets/barbearia-034-800.webp"
+        "thumb": "assets/barbearia-034-800.webp",
+        "width": 1296,
+        "height": 1920
       },
       {
         "id": 36,
         "src": "assets/barbearia-036.webp",
-        "thumb": "assets/barbearia-036-800.webp"
+        "thumb": "assets/barbearia-036-800.webp",
+        "width": 998,
+        "height": 1920
       },
       {
         "id": 38,
         "src": "assets/barbearia-038.webp",
-        "thumb": "assets/barbearia-038-800.webp"
+        "thumb": "assets/barbearia-038-800.webp",
+        "width": 984,
+        "height": 1920
       }
     ]
   },
@@ -166,22 +196,30 @@
       {
         "id": 46,
         "src": "assets/entre-o-ijexa-e-a-rua-viva-046.webp",
-        "thumb": "assets/entre-o-ijexa-e-a-rua-viva-046-800.webp"
+        "thumb": "assets/entre-o-ijexa-e-a-rua-viva-046-800.webp",
+        "width": 1079,
+        "height": 1920
       },
       {
         "id": 48,
         "src": "assets/entre-o-ijexa-e-a-rua-viva-048.webp",
-        "thumb": "assets/entre-o-ijexa-e-a-rua-viva-048-800.webp"
+        "thumb": "assets/entre-o-ijexa-e-a-rua-viva-048-800.webp",
+        "width": 1440,
+        "height": 1920
       },
       {
         "id": 49,
         "src": "assets/entre-o-ijexa-e-a-rua-viva-049.webp",
-        "thumb": "assets/entre-o-ijexa-e-a-rua-viva-049-800.webp"
+        "thumb": "assets/entre-o-ijexa-e-a-rua-viva-049-800.webp",
+        "width": 1440,
+        "height": 1920
       },
       {
         "id": 51,
         "src": "assets/entre-o-ijexa-e-a-rua-viva-051.webp",
-        "thumb": "assets/entre-o-ijexa-e-a-rua-viva-051-800.webp"
+        "thumb": "assets/entre-o-ijexa-e-a-rua-viva-051-800.webp",
+        "width": 1440,
+        "height": 1920
       }
     ]
   }
